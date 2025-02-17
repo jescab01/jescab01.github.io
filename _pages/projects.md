@@ -2,10 +2,15 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: >
+  A growing collection of your cool projects.
+  <br>
+  I spend most of my time dedicated to research projects in computational neuroscience but
+  
+  
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [research, fun]
 horizontal: false
 ---
 
