@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jescab01
+  - LCCN
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - jescab01/pyToolbox
+  - jescab01/ADprogress_2023
+  - jescab01/ThalamusInRSFC_2023
+  - LCCN/Frontiers2023
+  - jescab01/tutorial_BrainSimulation
+
+
