@@ -1,0 +1,4 @@
+numpy
+tvb-library
+tvb_data
+plotly

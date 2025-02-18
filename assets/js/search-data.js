@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "Explore my work on GitHub, where I develop and share computational models, data analysis scripts,  and neuroscience-related tools. Check out my repositories and contributions below.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-courses",
           title: "courses",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Discover a collection of tutorials and courses I’ve developed using Jupyter Notebooks,  covering topics in computational modeling, data analysis, and neuroscience.  These interactive resources are designed to guide learning through hands-on exploration.  Downloadable from GitHub.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/courses/";
@@ -370,7 +370,17 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "projects-project-1",
+    },{id: "courses-brain-network-models",
+          title: 'Brain Network Models',
+          description: "an introductory tutorial on how to simulate a whole brain activity from empirical data using TVB.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/bnm_tutorial/";
+            },},{id: "courses-neural-mass-models",
+          title: 'Neural Mass Models',
+          description: "an introductory tutorial to some of the equations available to reproduce brain activity.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/nmm_tutorial/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -420,14 +430,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("mailto:%4A%65%73%63%61%62%30%31@%75%63%6D.%65%73", "_blank");
         },
       },{
         id: 'social-rss',
@@ -441,14 +444,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=jwFR2qAAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
