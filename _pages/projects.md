@@ -4,15 +4,19 @@ title: projects
 permalink: /projects/
 description: >
   A growing collection of your cool projects.
-  <br>
-  I spend most of my time dedicated to research projects in computational neuroscience but
-  
   
 nav: true
 nav_order: 2
-display_categories: [research, fun]
+display_categories: [research, art]
 horizontal: false
 ---
+
+  
+I spend most of my time dedicated to research projects in computational neuroscience but
+
+
+# dibujo de las líneas de investigación
+
 
 <!-- pages/projects.md -->
 <div class="projects">

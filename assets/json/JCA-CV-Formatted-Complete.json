@@ -1,0 +1,387 @@
+{
+    "basics": {
+        "name": "Jesús Cabrera-Álvarez",
+        "label": "Researcher in Computational Neuroscience",
+        "email": "Jescab01@ucm.es",
+        "phone": "671818995",
+        "summary": "Researcher in computational neuroscience, specializing in functional connectivity and neuroimaging analysis.",
+        "location": {
+            "postalCode": "11300",
+            "city": "La Línea de la Concepción",
+            "countryCode": "ES",
+            "region": "Cádiz"
+        },
+        "profiles": [
+            {
+                "network": "ORCID",
+                "username": "Jesús Cabrera-Álvarez",
+                "url": "https://orcid.org/0000-0000-0000-0000"
+            }
+        ]
+    },
+
+    "education": [
+        {
+            "institution": "Complutense University of Madrid",
+            "studyType": "PhD in Psychology",
+            "area": "Computational Neuroscience",
+            "dissertation": [
+                "Title: Computational modeling the neuronal basis of episodic memory to test the disconnection hypothesis in Alzheimer's.",
+                "Supervisors: Fernando Maestú & Gianluca Susi"],
+            "startDate": "2020-10-31",
+            "endDate": "2024-12-10",
+            "score": "Cum Laude",
+            "location": "Madrid, Spain",
+            "url": "https://www.ucm.es/doctorado/doctoradopsicologia/"
+        },
+        {
+            "institution": "University of Edinburgh",
+            "studyType": "M.Sc. by Research in Integrative Neuroscience",
+            "area": "Computational Neuroscience",
+            "dissertation": [
+                "Dissertation: The relationship between structural and functional neural networks in C. elegans",
+                "Supervisor: Melanie Stefan"],
+            "startDate": "2018-09-01",
+            "endDate": "2019-08-31",
+            "score": "8.02",
+            "location": "Edinburgh, Scotland",
+            "url": "https://biomedical-sciences.ed.ac.uk/postgraduate-studying/msc-by-research-programmes/mscr-integrative-neuroscience"
+        },
+        {
+            "institution": "Complutense University of Madrid",
+            "studyType": "Bachelor's in Psychology",
+            "area": "Cognitive sciences",
+            "dissertation": [
+                "Dissertation: Emotion's influence on sensory processing",
+                "Supervisor: Stefan Moratti"],
+            "startDate": "2014-09-01",
+            "endDate": "2018-07-31",
+            "score": "8.53",
+            "location": "Pozuelo, Spain",
+            "url": "https://psicologia.ucm.es/data/cont/docs/titulaciones/2073.pdf"
+        },
+        {
+            "institution": "Complutense University of Madrid",
+            "studyType": "Bachelor's in Criminology",
+            "dissertation": [
+                "Dissertation: Relationship between attachment and impulsivity - a review",
+                "Supervisors: Juan Ramos-Cejudo"],
+            "startDate": "2012-09-01",
+            "endDate": "2016-07-31",
+            "score": "7.92",
+            "location": "Madrid, Spain",
+            "url": "https://www.ucm.es/data/cont/docs/titulaciones/20.pdf"
+        }
+    ],
+
+    "experience": [
+
+        {
+            "position": "Post-Doctoral Researcher",
+            "institution": "Center for Cognitive and Computational Neuroscience (C3N), Complutense University of Madrid",
+            "location": "Madrid, Spain",
+            "url": "https://meg.ucm.es/en",
+            "startDate": "2024-12-18",
+            "summary": "Conducting research in computational modeling of functional connectivity and memory processing.",
+            "highlights": [
+                "Developed models for Alzheimer's disease progression",
+                "Analyzed MEG functional connectivity"
+            ]
+        },
+
+        {
+            "position": "Visiting Researcher",
+            "institution": "Charité University Hospital",
+            "location": "Berlin, Germany",
+            "url": "https://brainsimulation.charite.de/en/",
+            "startDate": "2022-09-28",
+            "endDate": "2022-12-22",
+            "summary": "Studied brain simulation techniques under Prof. Petra Ritter.",
+            "highlights": [
+                "Implemented computational models for neurodegenerative disorders"
+            ]
+        },
+
+        {
+            "position": "UCM team member - EMBRACE project",
+            "institution": "eemagine Medical Imaging Solutions GmbH",
+            "location": "Berlin, Germany",
+            "url": "https://www.projectembrace.eu/",
+            "summary": "Secondee in a MSCA-RISE project investigating inter-brain connectivity. The project in the Technology for Multimodal Inter-Brain Dynamics Investigation (EMBRACE).",
+            "startDate": "2022-06-14",
+            "endDate": "2022-09-13"
+        },
+
+        {
+            "position": "Doctoral Researcher",
+            "institution": "Center for Cognitive and Computational Neuroscience (C3N), Complutense University of Madrid",
+            "location": "Madrid, Spain",
+            "url": "https://meg.ucm.es/en",
+            "startDate": "2020-10-31",
+            "endDate": "2024-12-10",
+            "summary": "Conducting research in computational modeling of functional connectivity and memory processing.",
+            "highlights": [
+                "Developed models for Alzheimer's disease progression",
+                "Analyzed MEG functional connectivity"
+            ]
+        },
+
+        {
+            "position": "Master's Researcher",
+            "institution": "Stefan Lab, University of Edinburgh",
+            "location": "Edinburgh, Scotland",
+            "url": "https://stefanlab.net/index.html",
+            "startDate": "2019-01-15",
+            "endDate": "2019-08-15",
+            "summary": "Investigated the relationship between structural and functional networks in C. elegans.",
+            "highlights": [
+                "Applied network science techniques to neuroscience data"
+            ]
+        }
+    ],
+
+    "fellowships": [
+        {
+            "name": "University Teaching Training Contract (FPU19/04251)",
+            "institution": "Ministry of Universities, Spanish Government",
+            "startDate": "2020-10-31",
+            "endDate": "2024-10-31",
+            "url": "https://www.ciencia.gob.es/Convocatorias/2019/FPU2019.html"
+        }
+    ],
+
+    "publications": [
+        {
+            "name": "A Multiscale Closed-Loop Neurotoxicity Model of Alzheimer's Disease Progression Explains Functional Connectivity Alterations",
+            "publisher": "eNeuro",
+            "releaseDate": "2024",
+            "url": "https://doi.org/10.1523/ENEURO.0345-23.2023",
+            "summary": "Proposed a computational model for Alzheimer's disease progression in functional connectivity."
+        },
+        {
+            "name": "Understanding the effects of cortical gyrification in tACS: insights from experiments and computational models",
+            "publisher": "Frontiers in Neuroscience",
+            "releaseDate": "2023",
+            "url": "https://doi.org/10.3389/fnins.2023.1223950",
+            "summary": "Analyzed the role of cortical morphology in transcranial alternating current stimulation."
+        },
+        {
+            "name": "Modeling the role of the thalamus in resting-state functional connectivity: Nature or structure",
+            "publisher": "PLoS Computational Biology",
+            "releaseDate": "2023",
+            "url": "https://doi.org/10.1371/journal.pcbi.1011007",
+            "summary": "Explored the contribution of the thalamus to large-scale functional connectivity."
+        }
+    ],
+
+    "teaching": [
+        {
+            "title": "Lecturer in Psychology of Though",
+            "institution": "Grado en Psicología, Complutense University of Madrid",
+            "location": "Pozuelo de Alarcón, Spain",
+            "hours": 90,
+            "date": "2021-2022"
+        },
+        {
+            "title": "Workshop on Computational Neuroscience",
+            "institution": "XIII SEPNECA's Congress",
+            "location": "Santiago de Compostela, Spain",
+            "hours": 10,
+            "date": "2023"
+        },
+        {
+            "title": "Seminar on Computational Neuroscience",
+            "institution": "Master's in Cognitive Neuroscience and Neuropsychology, Rey Juan Carlos University",
+            "location": "Alcorcón, Spain",
+            "hours": 1,
+            "date": "2023"
+        }
+    ],
+
+
+    "conferences": [
+        {
+            "title": "Understanding alpha rhythm fluctuations: from topological gradients to neural mechanisms",
+            "event": "Brain Modes Conference 2024",
+            "location": "Bilbao, Spain",
+            "type": "Poster",
+            "startDate": "2024-11-18",
+            "endDate": "2024-11-21",
+            "url": "https://www.brainsimulation.org/bsw/zwei/events/single/13829-brainmodes-conference-2024"
+        },
+        {
+            "title": "A multiscale closed-loop neurotoxicity model of Alzheimer's disease progression explains functional connectivity alterations",
+            "event": "Bernstein Conference 2023",
+            "location": "Berlin, Germany",
+            "type": "Poster",
+            "startDate": "2024-09-26",
+            "endDate": "2024-09-29",
+            "url": "https://bernstein-network.de/bernstein-conference/past-bernstein-conferences/bernstein-conference-2023/"
+        },
+        {
+            "title": "Multiscale modeling functional connectivity changes through Alzheimer's disease spectrum",
+            "event": "International Congress of Neurophysiology, Neuropsychology and Neurotechnological Advances 2023",
+            "location": "Almarza, Spain",
+            "type": "Oral Presentation",
+            "startDate": "2023-06-23",
+            "endDate": "2023-06-24"
+        },
+        {
+            "title": "Computational modeling of episodic memory at the neuronal level to test the disconnection hypothesis in Alzheimer's disease",
+            "event": "Doctoral Research Days, Faculty of Psychology, Complutense University of Madrid",
+            "location": "Pozuelo, Spain",
+            "type": "Oral Presentation",
+            "startDate": "2024-06-20",
+            "endDate": "2024-06-20"
+        },
+        {
+            "title": "Computational modeling the impact of fronto-parietal tACS desynchronization protocol over whole-brain functional connectivity",
+            "event": "5th International Brain Stimulation Conference",
+            "location": "Lisbon, Portugal",
+            "type": "Poster",
+            "startDate": "2023-02-19",
+            "endDate": "2023-02-22",
+            "url": "https://www.elsevier.com/events/conferences/all/international-brain-stimulation-conference"
+        },
+        {
+            "title": "A brain network model of extended Jansen-Rit neural masses to enhance spectral richness and heterogeneity in MEEG resting state simulations",
+            "event": "Symposium: From Cortical Microcircuits to Consciousness (CORTICON)",
+            "location": "Paris, France",
+            "type": "Poster",
+            "startDate": "2022-04-11",
+            "endDate": "2022-04-13"
+        },
+        {
+            "title": "A computational model to guide the functional decoupling of two brain regions with transcranial alternating current stimulation",
+            "event": "XII Spanish Society of Psychophysiology and Cognitive-Affective Neuroscience (SEPNECA) Congress",
+            "location": "Cádiz, Spain",
+            "type": "Poster",
+            "startDate": "2021-09-8",
+            "endDate": "2021-09-10"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Specialized Databases in Psychology and Speech Therapy",
+            "date": "2020-11-13",
+            "issuer": "Faculty of Psychology, Complutense University of Madrid",
+            "url": "https://biblioteca.ucm.es/psi/basesonline"
+        },
+        {
+            "name": "PubMed: Biomedical Database",
+            "date": "2020-11-15",
+            "issuer": "Faculty of Psychology,Complutense University of Madrid",
+            "url": "https://biblioteca.ucm.es/psi/pubmedonline"
+        },
+        {
+            "name": "Scientific Publications Evaluation: WoS and Scopus",
+            "date": "2020-11-16",
+            "issuer": "Faculty of Psychology,Complutense University of Madrid",
+            "url": "https://biblioteca.ucm.es/psi/evaluacionenlinea"
+        },
+        {
+            "name": "How to Publish in High-Impact Journals",
+            "date": "2020-11-16",
+            "issuer": "Spanish Journal of Psychology",
+            "url": "https://historiadelcolegio.copmadrid.org/index.php/es/evento/curso-%C2%BFc%C3%B3mo-publicar-en-revistas-cient%C3%ADficas-de-impacto"
+        },
+        {
+            "name": "New RefWorks Bibliographic Manager",
+            "date": "2020-11-18",
+            "issuer": "Faculty of Psychology,Complutense University of Madrid",
+            "url": "https://biblioteca.ucm.es/psi/refworksonline"
+
+        },
+        {
+            "name": "Diffusion Tensor Imaging and Fiber Tracking Analysis",
+            "date": "2021-04-13",
+            "issuer": "SEPNECA"
+        },
+        {
+            "name": "University Teaching Skills Training",
+            "date": "2021-05-30",
+            "issuer": "Complutense University of Madrid"
+        },
+        {
+            "name": "Educational Evaluation: Instruments and Procedures",
+            "date": "2022-02-15",
+            "issuer": "Complutense University of Madrid",
+            "url": "https://cfp.ucm.es/formacionprofesorado/node/659"
+        },
+        {
+            "name": "Pedagogical Design of a Teaching Program",
+            "date": "2023-02-15",
+            "issuer": "Complutense University of Madrid",
+            "url": "https://cfp.ucm.es/formacionprofesorado/node/673"
+        },
+        {
+            "name": "Neuromodulation: Can Brain Activity Be Improved?",
+            "date": "2023-07-11",
+            "issuer": "Escuela de Verano, Complutense University of Madrid"
+        },
+        {
+            "name": "Computational Neuroscience: Mathematical Models of the Brain",
+            "date": "2024-07-15",
+            "issuer": "Escuela de Verano, Complutense University of Madrid",
+            "url": "https://cursosveranoucm.com/cursos/73401/"
+        },
+        {
+            "name": "Positive Psychology",
+            "date": "2019-02-01",
+            "issuer": "University of Pennsylvania",
+            "url": "https://www.coursera.org/specializations/positivepsychology"
+        },
+        {
+            "name": "The Multiscale Brain MOOC",
+            "date": "2018-07-01",
+            "issuer": "EPFL",
+            "url": "https://courseware.epfl.ch/courses/course-v1:EPFL+Multi-BrainX+2018_T1/about"
+        },
+        {
+            "name": "Computational Neuroscience",
+            "date": "2016-05-01",
+            "issuer": "Washington University",
+            "url": "https://www.coursera.org/learn/computational-neuroscience"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Computational Neuroscience",
+            "keywords": [
+                "Brain Network Models",
+                "Neural Masses",
+                "The Virtual Brain",
+                "Jansen-Rit"
+            ]
+        },
+        {
+            "name": "Neuroimaging",
+            "keywords": [
+                "MEG",
+                "dwMRI",
+                "DSI studio",
+                "Functional Connectivity",
+                "Machine Learning"
+            ]
+        },
+        {
+            "name": "Programming",
+            "keywords": [
+                "Python",
+                "MATLAB",
+                "R"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "C1 (IELTS 7.0)"
+        },
+        {
+            "language": "Spanish",
+            "fluency": "Native"
+        }
+    ]
+
+}

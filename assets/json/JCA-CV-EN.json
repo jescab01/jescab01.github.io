@@ -1,0 +1,258 @@
+{
+    "personal_info": {
+        "name": "Jesús Cabrera-Álvarez",
+        "nationality": "Spain",
+        "date_of_birth": "29/10/1994",
+        "address": "La Línea de la Concepción, 11300, Cádiz",
+        "phone": "671818995",
+        "email": "Jescab01@ucm.es"
+    },
+    "education": [
+        {
+            "degree": "PhD in Psychology",
+            "university": "Complutense University of Madrid",
+            "year": 2024,
+            "grade": "Cum Laude"
+        },
+        {
+            "degree": "Master's in Neuroscience",
+            "university": "University of Edinburgh",
+            "year": 2019,
+            "grade": "8.02"
+        },
+        {
+            "degree": "Bachelor's in Psychology",
+            "university": "Complutense University of Madrid",
+            "year": 2018,
+            "grade": "8.53"
+        },
+        {
+            "degree": "Bachelor's in Criminology",
+            "university": "Complutense University of Madrid",
+            "year": 2016,
+            "grade": "7.92"
+        }
+    ],
+    "research_experience": [
+        {
+            "institution": "Center for Cognitive and Computational Neuroscience, Complutense University of Madrid",
+            "funding": "University Teaching Training Contract (FPU19/04251)",
+            "period": "31/10/2020 - 31/10/2024"
+        },
+        {
+            "institution": "Charité University Hospital, Berlin",
+            "supervisor": "Prof. Petra Ritter",
+            "funding": "Complementary grant for FPU beneficiaries",
+            "period": "28/09/2022 - 22/12/2022"
+        },
+        {
+            "institution": "Stefan Lab, University of Edinburgh",
+            "period": "15/01/2019 - 15/08/2019"
+        }
+    ],
+    "research_projects": [
+        {
+            "title": "Computational modeling of episodic memory at the neuronal level to test the disconnection hypothesis in Alzheimer's disease",
+            "role": "Principal Investigator",
+            "period": "31/10/2020 - 10/12/2024"
+        },
+        {
+            "title": "tEchnology for Multimodal inter-BRain dynAmiCs invEstigation (EMBRACE)",
+            "role": "Team Member",
+            "funding": "MSCA-RISE",
+            "period": "14/06/2022 - 13/09/2022"
+        },
+        {
+            "title": "The relationship between structural and functional networks in C. elegans",
+            "role": "Principal Investigator",
+            "period": "15/01/2019 - 15/08/2019"
+        }
+    ],
+    "publications": [
+        {
+            "title": "A Multiscale Closed-Loop Neurotoxicity Model of Alzheimer's Disease Progression Explains Functional Connectivity Alterations",
+            "authors": "Cabrera-Álvarez, J., Stefanovski, L., Martin, L., Susi, G., Maestú, F., & Ritter, P.",
+            "journal": "eNeuro",
+            "year": 2024,
+            "doi": "10.1523/ENEURO.0345-23.2023"
+        },
+        {
+            "title": "Understanding the effects of cortical gyrification in tACS: insights from experiments and computational models",
+            "authors": "Cabrera-Álvarez, J., et al.",
+            "journal": "Frontiers in Neuroscience",
+            "year": 2023,
+            "doi": "10.3389/fnins.2023.1223950"
+        },
+        {
+            "title": "Modeling the role of the thalamus in resting-state functional connectivity: Nature or structure",
+            "authors": "Cabrera-Álvarez, J., Doorn, N., Maestú, F., & Susi, G.",
+            "journal": "PLoS Computational Biology",
+            "year": 2023,
+            "doi": "10.1371/journal.pcbi.1011007"
+        }
+    ],
+    "grants_fellowships": [
+        {
+            "title": "University Teaching Training Contract (FPU19/04251)",
+            "funding": "Ministry of Universities",
+            "period": "31/10/2020 - 31/10/2024"
+        }
+    ],
+    "conferences": [
+        {
+            "title": "Understanding alpha rhythm fluctuations: from topological gradients to neural mechanisms",
+            "event": "Brain Modes 2024",
+            "location": "Computational Neuroimaging Lab, Bilbao, Spain",
+            "type": "Oral Presentation",
+            "date": "2024"
+        },
+        {
+            "title": "A multiscale closed-loop neurotoxicity model of Alzheimer's disease progression explains functional connectivity alterations",
+            "event": "Bernstein Conference 2023",
+            "location": "Bernstein Network Computational Neuroscience, Germany",
+            "type": "Oral Presentation",
+            "date": "2023"
+        },
+        {
+            "title": "Multiscale modeling functional connectivity changes through Alzheimer's disease spectrum",
+            "event": "International Congress of Neurophysiology, Neuropsychology and Neurotechnological Advances 2023",
+            "location": "Centre for Cognitive and Computational Neuroscience",
+            "type": "Oral Presentation",
+            "date": "2023"
+        },
+        {
+            "title": "Computational modeling of episodic memory at the neuronal level to test the disconnection hypothesis in Alzheimer's disease",
+            "event": "Doctoral Research Days",
+            "location": "Complutense University of Madrid",
+            "type": "Oral Presentation",
+            "date": "2023"
+        },
+        {
+            "title": "Computational modeling the impact of fronto-parietal tACS desynchronization protocol over whole-brain functional connectivity",
+            "event": "5th International Brain Stimulation Conference",
+            "location": "Elsevier",
+            "type": "Poster",
+            "date": "2023"
+        },
+        {
+            "title": "A brain network model of extended Jansen-Rit neural masses to enhance spectral richness and heterogeneity in MEEG resting state simulations",
+            "event": "Symposium: From Cortical Microcircuits to Consciousness (CORTICON)",
+            "location": "European Institute for Theoretical Neuroscience",
+            "type": "Poster",
+            "date": "2022"
+        },
+        {
+            "title": "A computational model to guide the functional decoupling of two brain regions with transcranial alternating current stimulation",
+            "event": "XII SEPNECA Congress",
+            "location": "Spanish Society of Psychophysiology and Cognitive-Affective Neuroscience (SEPNECA)",
+            "type": "Poster",
+            "date": "2021"
+        }
+    ],
+    "courses_trainings": [
+        {
+            "title": "Specialized Databases in Psychology and Speech Therapy",
+            "institution": "Complutense University of Madrid",
+            "date": "13/11/2020"
+        },
+        {
+            "title": "PubMed: Biomedical Database",
+            "institution": "Complutense University of Madrid",
+            "date": "15/11/2020"
+        },
+        {
+            "title": "Scientific Publications Evaluation: WoS and Scopus",
+            "institution": "Complutense University of Madrid",
+            "date": "16/11/2020"
+        },
+        {
+            "title": "How to Publish in High-Impact Journals",
+            "institution": "Spanish Journal of Psychology",
+            "date": "16-17/11/2020"
+        },
+        {
+            "title": "New RefWorks Bibliographic Manager",
+            "institution": "Complutense University of Madrid",
+            "date": "18/11/2020"
+        },
+        {
+            "title": "Diffusion Tensor Imaging and Fiber Tracking Analysis",
+            "institution": "SEPNECA",
+            "date": "13-14/04/2021"
+        },
+        {
+            "title": "University Teaching Skills Training",
+            "institution": "Complutense University of Madrid",
+            "date": "30/05-15/06/2021"
+        },
+        {
+            "title": "Educational Evaluation: Instruments and Procedures",
+            "institution": "Complutense University of Madrid",
+            "date": "15/02/2022"
+        },
+        {
+            "title": "Pedagogical Design of a Teaching Program",
+            "institution": "Complutense University of Madrid",
+            "date": "15/02/2023"
+        },
+        {
+            "title": "Neuromodulation: Can Brain Activity Be Improved?",
+            "institution": "Complutense University of Madrid",
+            "date": "11/07/2023"
+        },
+        {
+            "title": "Computational Neuroscience: Mathematical Models of the Brain",
+            "institution": "Complutense University of Madrid",
+            "date": "15/07/2024"
+        },
+        {
+            "title": "Positive Psychology",
+            "institution": "University of Pennsylvania",
+            "date": "02/2019"
+        },
+        {
+            "title": "The Multiscale Brain MOOC",
+            "institution": "EPFL",
+            "date": "07-08/2018"
+        },
+        {
+            "title": "Computational Neuroscience",
+            "institution": "Washington University",
+            "date": "11/2016-05/2017"
+        }
+    ],
+    "teaching_experience": [
+        {
+            "title": "Lecturer in Thought Psychology",
+            "institution": "Complutense University of Madrid",
+            "hours": 90,
+            "date": "2023"
+        },
+        {
+            "title": "Workshop on Computational Neuroscience",
+            "institution": "XIII SEPNECA Congress",
+            "hours": 10,
+            "date": "2023"
+        },
+        {
+            "title": "Seminar on Computational Neuroscience",
+            "institution": "Master's in Cognitive and Computational Neuroscience, Rey Juan Carlos University",
+            "hours": 1,
+            "date": "2023"
+        }
+    ],
+    "skills": [
+        "Computational Neuroscience",
+        "Functional Connectivity Analysis",
+        "Neuroimaging",
+        "Machine Learning",
+        "Python",
+        "MEG Analysis"
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "level": "C1 (IELTS 7.0, 2018)"
+        }
+    ]
+}
