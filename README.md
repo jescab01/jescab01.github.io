@@ -27,8 +27,13 @@ Go to [CUSTOMIZE.md](CUSTOMIZE.md) or read it on the [github site](https://githu
 
 ## Inset figures in Markdown
 
-Two approaches, the first one may be more efficient, so the reader can have a quick look on the static 
-figures before clicking on them and going to a slower loading of the dynamic figures.
+Two approaches, the first one may be more efficient, so the reader can have a quick look on the static figures before clicking on them and going to a slower loading of the dynamic figures.
+
+>**Maximum width** of the page is **950px**. 
+>
+>**Maximum size** allowed in github push: **100 mb**.
+
+
 
 1) opening the figure in another window.
 [<img src="/research/th/icon_th.png">](/research/th/figs/Criticality_th_noisy_phetero.html)
@@ -38,6 +43,10 @@ figures before clicking on them and going to a slower loading of the dynamic fig
   src="/research/th/figs/Criticality_th_noisy_phetero.html"
   frameborder="0" allow="autoplay; encrypted-media" scrolling='no' 
   allowfullscreen></iframe>
+
+
+
+
 
 
 # Publish it
