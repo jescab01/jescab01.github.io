@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page.  You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Built from a json data file. You can modify it in &#39;assets/json/cv.json&#39;. You can also download a pdf.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -380,51 +380,41 @@ ninja.data = [{
           description: "an introductory tutorial to some of the equations available to reproduce brain activity.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/nmm_tutorial/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-alzheimer-39-s-disease",
+          title: 'Alzheimer&amp;#39;s disease',
+          description: "exploring the mechanisms of functional connectivity changes in Alzheimer’s.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/Alzheimer's/";
+            },},{id: "projects-brain-activity",
+          title: 'Brain activity',
+          description: "computational models of brain activity, from neural mass dynamics to whole-brain network simulations, to better understand large-scale brain function.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/BrainActivity/";
+            },},{id: "projects-music",
+          title: 'Music',
+          description: "coming soon",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/projects/Music/";
+            },},{id: "projects-poetry",
+          title: 'Poetry',
+          description: "coming soon",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/Poetry/";
+            },},{id: "projects-transcraneal-stimulation",
+          title: 'transcraneal Stimulation',
+          description: "modeling the effects on brain tissue,  from current propagation to network-level modulation and cognitive applications.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+              window.location.href = "/projects/Stimulation/";
+            },},{id: "projects-cognitive-tasks",
+          title: 'Cognitive Tasks',
+          description: "modeling brain activity in cognitive tasks through whole-brain simulations",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+              window.location.href = "/projects/Tasks/";
+            },},{id: "projects-wellbeing",
+          title: 'Wellbeing',
+          description: "exploring the neural foundations of flow to enhance wellbeing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/Wellbeing/";
             },},{
         id: 'social-email',
         title: 'email',
