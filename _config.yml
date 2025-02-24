@@ -93,7 +93,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 blog_name: Jescab01 # blog_name will be displayed in your blog page
 blog_description: a simple blogspace
 permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
+lsi: true # produce an index for related posts
 
 # Pagination
 pagination:
@@ -178,6 +178,7 @@ include:
   - _pages
   - _scripts
   - assets/jupyter/tutorial_BrainSimulation-master/
+
 
 exclude:
   - bin/

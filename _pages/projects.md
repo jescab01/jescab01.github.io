@@ -7,15 +7,45 @@ description: >
   
 nav: true
 nav_order: 2
-display_categories: [research, art]
+display_categories: [research] #, art]
 horizontal: false
 ---
 
   
-I spend most of my time dedicated to research projects in computational neuroscience but
+[//]: # (I spend most of my time dedicated to research projects in computational neuroscience but)
+[//]: # (![research-lines]&#40;/assets/img/projects2.png&#41;{: .invert-dark-mode })
+
+My research is centered on developing and applying computational 
+models of brain function and its modulation to foster our understanding 
+of mental health and disease, cognition and behaviour. While building
+and enhancing these computational models is a research endeavour on 
+its own, I believe that their true value emerges from
+their application to address specific research topics such
+as **Alzheimer’s disease** and **wellbeing**.
 
 
-# dibujo de las líneas de investigación
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 1;">
+    <p>
+    The diagram above represents this interconnected framework, 
+    where the <b>horizontal axis</b> distinguishes between 
+    application domains, while the <b>vertical axis</b> 
+    outlines complementary types of models. Each of 
+    these approaches contributes independently to neuroscience 
+    but gains greater relevance when integrated, enhancing both 
+    theoretical insights and practical applications. 
+    </p>
+    <p>
+    Beyond my academic research, I also engage in creative projects, including
+    <b>music and poetry</b>, which, in their own way, reflect a complementary 
+    exploration of cognition and human expression.
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img src="/assets/img/projects3.png" alt="research-lines" class="invert-dark-mode" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
 
 
 <!-- pages/projects.md -->

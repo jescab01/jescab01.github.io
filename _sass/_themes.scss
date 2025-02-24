@@ -157,3 +157,19 @@ html[data-theme-setting="light"] {
     display: block;
   }
 }
+
+
+/* Apply Inversion Only in Dark Mode */
+[data-theme="dark"] img.invert-dark-mode {
+    filter: invert(1);
+ }
+
+/* Make images responsive */
+img.invert-dark-mode {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 5; /* Centers the image if 'margin: 0 auto;' */
+}
+
+
