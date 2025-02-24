@@ -36,7 +36,7 @@ figures before clicking on them and going to a slower loading of the dynamic fig
 2) inserting the figure in the same page.
 <iframe width="100%" height="400"
   src="/research/th/figs/Criticality_th_noisy_phetero.html"
-  frameborder="0" allow="autoplay; encrypted-media"
+  frameborder="0" allow="autoplay; encrypted-media" scrolling='no' 
   allowfullscreen></iframe>
 
 
