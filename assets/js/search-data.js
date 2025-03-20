@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-jr-39-s-bifurcation-on-c",
+        },{id: "post-a-post-with-formatting-and-links",
+      
+        title: "a post with formatting and links",
+      
+      description: "march &amp; april, looking forward to summer",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Cortical_Reconstructions/";
+        
+      },
+    },{id: "post-jr-39-s-bifurcation-on-c",
       
         title: "JR&#39;s bifurcation on C",
       
