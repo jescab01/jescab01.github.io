@@ -62,26 +62,26 @@ ninja.data = [{
           window.location.href = "/blog/2025/Cortical_Reconstructions/";
         
       },
-    },{id: "post-jansen-rit-39-s-bifurcation-on-c",
+    },{id: "post-jansen-rit-39-s-bifurcation",
       
-        title: "Jansen-Rit&#39;s bifurcation on C",
+        title: "Jansen-Rit&#39;s bifurcation",
       
-      description: "how local synaptic coupling (C) modulates Jansen-Rit bifurcations",
+      description: "how extrinsic input (p) and local synaptic coupling (C) modulates JR behaviour",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2025/bif_onC/";
         
       },
-    },{id: "post-jansen-rit-39-s-bifurcation",
+    },{id: "post-dynamic-transition-through-jr-39-s-bifurcation",
       
-        title: "Jansen-Rit&#39;s bifurcation",
+        title: "Dynamic transition through JR&#39;s bifurcation",
       
       description: "on how the coupling factor shapes brain dynamics and functional connectivity.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/JR_bifurcation/";
+          window.location.href = "/blog/2025/transitioning_JR_bifurcation/";
         
       },
     },{id: "post-welcome",
