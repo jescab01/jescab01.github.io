@@ -45,7 +45,7 @@ brain activity across specific frequency bands.
 
 
 
-## The forward problem: physics and mathematics
+## The forward model: physics and mathematics
 
 The forward model mathematically describes how neural currents in the brain generate magnetic fields measurable by MEG
 sensors. This is a well-posed problem: given a known distribution of sources, one can compute the sensor-level magnetic
