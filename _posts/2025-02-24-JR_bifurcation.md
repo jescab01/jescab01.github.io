@@ -3,7 +3,7 @@ layout: post
 
 title: Jansen-Rit's bifurcation
 description: >
-  on coupling factor shaping
+  on how the coupling factor shapes
   brain dynamics and functional connectivity.
 thumbnail: assets/img/bif.png
 date: 2025-02-24 11:40:00
