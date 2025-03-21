@@ -53,7 +53,7 @@ sensors. This is a well-posed problem: given a known distribution of sources, on
 fields using Maxwell's equations and a model of the head's conductivity. The relationship is linear:
 
 $$
-B = G * J + N
+B = G J + N
 $$
 
 where:
@@ -84,7 +84,7 @@ MNE (Hämäläinen & Ilmoniemi, 1994) solves the inverse problem by
 minimizing the norm of the current distribution (minimizing energy, J):
 
 $$
-\hat{J} = G^\top (G G^\top + \lambda C)^{-1} B
+\hat{J} = G^\top (G G^\top + \lambda C_n)^{-1} B
 $$
 
 where:
@@ -92,7 +92,7 @@ where:
 - $B$ is the sensor data,
 - $G$ is the lead field matrix,
 - $\lambda$ is the regularization parameter,
-- $C$ is the noise covariance matrix.
+- $C_n$ is the noise covariance matrix.
 
 The solution favors low-amplitude distributed sources and is inherently biased toward superficial currents due to depth
 attenuation. This depth bias can be observed in the videos below, especially for unconstrained dipoles (look for the MNE 
@@ -132,10 +132,10 @@ The LCMV beamformer spatially filters the data to maximize the signal from a
 target location while minimizing contributions from elsewhere:
 
 $$
-w = \frac{C^{-1} G}{G^\top C^{-1} G}
+w = \frac{C^{-1} G}{G^\top C_d^{-1} G}
 $$
 
-In this case, C corresponds to data covariance instead of noise covariance.
+In this case, $C_d$ corresponds to data covariance instead of noise covariance.
 LCMV assumes sources are uncorrelated and adapts dynamically to the data, making it sensitive to temporal structure but
 less robust to correlated sources.
 
