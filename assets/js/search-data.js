@@ -51,20 +51,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-a-post-with-formatting-and-links",
+        },{id: "post-reconstructing-cortical-activity-from-meg-data",
       
-        title: "a post with formatting and links",
+        title: "Reconstructing cortical activity from MEG data",
       
-      description: "march &amp; april, looking forward to summer",
+      description: "exploring different source models and frequency bands",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2025/Cortical_Reconstructions/";
         
       },
-    },{id: "post-jr-39-s-bifurcation-on-c",
+    },{id: "post-jansen-rit-39-s-bifurcation-on-c",
       
-        title: "JR&#39;s bifurcation on C",
+        title: "Jansen-Rit&#39;s bifurcation on C",
       
       description: "how local synaptic coupling (C) modulates Jansen-Rit bifurcations",
       section: "Posts",
@@ -77,7 +77,7 @@ ninja.data = [{
       
         title: "Jansen-Rit&#39;s bifurcation",
       
-      description: "on coupling factor shaping brain dynamics and functional connectivity.",
+      description: "on how the coupling factor shapes brain dynamics and functional connectivity.",
       section: "Posts",
       handler: () => {
         
