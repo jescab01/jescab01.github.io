@@ -17,7 +17,7 @@ giscus_comments: true
 featured: false
 
 toc:
-  beginning: true
+  sidebar: left
 ---
 
 > Don't miss out these [videos](#filtering-activity-into-frequency-bands) that are the central components of this post.
