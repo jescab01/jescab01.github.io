@@ -1,3 +1,7 @@
+# Troubleshooting
+
+'''& .venv\Scripts\Activate.ps1''' en caso de que no te esté reconociendo los comandos. Tienes que
+activar el entorno.
 
 
 A quicker, cleaner way to get started blogging with a template version
