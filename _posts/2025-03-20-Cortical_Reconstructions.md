@@ -3,7 +3,7 @@ layout: post
 
 title: Reconstructing cortical activity from MEG data
 description: exploring different source models and frequency bands
-thumbnail: assets/img/inverseModels.png
+thumbnail: assets/img/inverseModels.gif
 date: 2025/03/20 19:10:53
 # in terminal: Get-Date -Format "yyyy/MM/dd HH:mm:ss" ;
 
