@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-reconstructing-cortical-activity-from-meg-data",
+        },{id: "post-the-sigmoid-to-explain-jr-39-s-oscillations",
+      
+        title: "The sigmoid to explain JR&#39;s oscillations",
+      
+      description: "exploring the interplay between JR subpopulations creating oscillatory dynamics",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/sigmOsc/";
+        
+      },
+    },{id: "post-reconstructing-cortical-activity-from-meg-data",
       
         title: "Reconstructing cortical activity from MEG data",
       
