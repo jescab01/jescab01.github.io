@@ -51,7 +51,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-the-sigmoid-to-explain-jr-39-s-oscillations",
+        },{id: "post-bifurcations-in-a-brain-network-model",
+      
+        title: "Bifurcations in a brain network model",
+      
+      description: "and its relationship with the bifurcations of single nodes (JR NMMs) composing the network",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/bnm-bifurcation/";
+        
+      },
+    },{id: "post-how-do-psp-parameters-shape-jr-bifurcation",
+      
+        title: "How do PSP parameters shape JR bifurcation?",
+      
+      description: "amplitude and time constants",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/bif_onH&tau/";
+        
+      },
+    },{id: "post-the-sigmoid-to-explain-jr-39-s-oscillations",
       
         title: "The sigmoid to explain JR&#39;s oscillations",
       
