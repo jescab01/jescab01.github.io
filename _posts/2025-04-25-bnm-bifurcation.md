@@ -63,4 +63,5 @@ in time. Under which circumstances do they actually happen?
 
 > Hey! You can play around with the colors (clicking on the color variable box) of the plots:
 > **rFC** (emp-sim PLV correlation), power and *p* - in the case of the 3D scatters - are my favourites. 
-> Also, feel free to remove the "ref" trace (clicking on the legend) when it becomes unnecessarily persistent.
+> Also, feel free to remove the "ref" trace (clicking on the legend) when it becomes unnecessarily persistent, 
+> and decide on what rep (simulation repetition; click them out) you like the most.
