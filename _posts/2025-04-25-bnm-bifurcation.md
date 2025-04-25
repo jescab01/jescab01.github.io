@@ -25,7 +25,7 @@ These models help us explore how local processes and
 global architecture give rise to patterns like oscillations, synchronization, and resting-state networks. In this post,
 I share an outlook on BNM bifurcations comparing them with the bifurcation of its composing single nodes. In the following
 figure, a BNM parameterized with standard parameters, HCPex atlas downsampled to 52 regions, noise==0.001, and *g*==70 (after a 
-first fitting round). 
+first fitting round). Note the name of the regions, along with their average SC weights.
 
 <!-- Row with 1 figure -->
 <div class="row mt-4">
