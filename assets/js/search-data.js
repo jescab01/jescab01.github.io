@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-bifurcations-in-a-brain-network-model",
+        },{id: "post-phase-resetting-curves-for-jr",
+      
+        title: "Phase resetting curves for JR",
+      
+      description: "parameterized at different points of its bifurcation",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/jr_prc/";
+        
+      },
+    },{id: "post-bifurcations-in-a-brain-network-model",
       
         title: "Bifurcations in a brain network model",
       
