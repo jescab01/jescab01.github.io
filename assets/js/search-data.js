@@ -59,7 +59,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/bnm-bifurcation/";
+          window.location.href = "/blog/2025/bnm_bifurcation/";
         
       },
     },{id: "post-how-do-psp-parameters-shape-jr-bifurcation",
