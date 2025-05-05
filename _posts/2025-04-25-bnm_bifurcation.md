@@ -3,7 +3,7 @@ layout: post
 
 title: Bifurcations in a brain network model
 description: and its relationship with the bifurcations of single nodes (JR NMMs) composing the network
-thumbnail: assets/img/bnm-bif.png
+thumbnail: assets/img/bnm-bif_inTime.png
 date: 2025/04/25 10:16:04
 # in terminal: Get-Date -Format "yyyy/MM/dd HH:mm:ss" ;
 
