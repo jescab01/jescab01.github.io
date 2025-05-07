@@ -62,17 +62,6 @@ ninja.data = [{
           window.location.href = "/blog/2025/jr_prc/";
         
       },
-    },{id: "post-bifurcations-in-a-brain-network-model",
-      
-        title: "Bifurcations in a brain network model",
-      
-      description: "and its relationship with the bifurcations of single nodes (JR NMMs) composing the network",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/bnm_bifurcation/";
-        
-      },
     },{id: "post-how-do-psp-parameters-shape-jr-bifurcation",
       
         title: "How do PSP parameters shape JR bifurcation?",
