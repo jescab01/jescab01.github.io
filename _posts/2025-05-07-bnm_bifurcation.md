@@ -44,7 +44,7 @@ bifurcation: higher SC weight would mean higher input for the region, and thus a
 with respect to the single node bifurcation. The higher the SC weights the earlier the bifurcation closes.
 
 Finally, check out this other perspective on the same data. 3D scatters for bifurcations in g and p, 
-with additional variables to color the datapoints.
+with additional variables to color the datapoints. 
 
 <!-- Row with 1 figure -->
 <div class="row mt-4">
