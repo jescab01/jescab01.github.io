@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-bifurcations-in-a-brain-network-model",
+        },{id: "post-jr-equations-for-psychologists",
+      
+        title: "JR equations for psychologists",
+      
+      description: "a more intuitive take expressing the formalisms.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/myJR/";
+        
+      },
+    },{id: "post-bifurcations-in-a-brain-network-model",
       
         title: "Bifurcations in a brain network model",
       
