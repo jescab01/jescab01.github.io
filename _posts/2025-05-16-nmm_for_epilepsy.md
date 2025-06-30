@@ -33,7 +33,7 @@ dendrite-targeting interneurons (such as somatostatin-positive cells). This modi
 more realistic dynamics of epileptic discharges, particularly the low-voltage fast activity characteristic of seizure
 onset.
 
-Building on this foundation, [López-Sola et al. (2022)](https://doi.org/10.1088/1741-2552/ac8ba8)introduced a
+Building on this foundation, [López-Sola et al. (2022)](https://doi.org/10.1088/1741-2552/ac8ba8) introduced a
 physiologically grounded mechanism for chloride accumulation in pyramidal neurons, allowing the model to simulate the
 pathological shift of GABAergic inhibition into depolarizing (excitatory) influence. This addition makes the model
 autonomous and capable of generating seizure-like transitions driven solely by stochastic fluctuations and internal
