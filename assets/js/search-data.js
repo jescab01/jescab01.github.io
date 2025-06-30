@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-jr-equations-for-psychologists",
+        },{id: "post-a-nmm-for-epilepsy",
+      
+        title: "A NMM for epilepsy",
+      
+      description: "based on the Wendling-class version of the JR",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/nmm_for_epilepsy/";
+        
+      },
+    },{id: "post-jr-equations-for-psychologists",
       
         title: "JR equations for psychologists",
       
