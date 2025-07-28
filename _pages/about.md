@@ -3,10 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle: > 
-  Psychologist and computational neuroscientist at
+  Psychologist and computational neuroscientist at the
   <a href='https://meg.ucm.es/es'>Center for Cognitive and Computational Neuroscience (C3N)</a>,
   Universidad Complutense de Madrid. 
-  <em>Understanding the brain, to shape behaviour</em>.
+  <em>Understanding the brain to shape behaviour</em>.
   <a href="mailto:Jescab01@ucm.es">Jescab01@ucm.es</a>  || 
   <a href="https://www.linkedin.com/in/jesús-cabrera-álvarez-92136712a/?locale=en_US" target="_blank"><i class="fab fa-linkedin"></i> </a> |
   <a href="https://bsky.app/profile/jescab01.bsky.social" target="_blank"><i class="fab fa-bluesky"></i> </a> |
@@ -41,28 +41,25 @@ social: false # includes social icons at the bottom of the page
 I am a psychologist who has travelled all the way down from social sciences to biology
 looking for answers on human behavior. 
 
-The question has always remained the same *Why do people
-do what they shouldn't*, serving as the motivation for the
-deepening into `Criminology` first, but also in `Psychology` and `Neurosciences` later. 
+*Why do people do what they shouldn't?* has served as a core question that motivated me to
+deepen into `Criminology` first, and `Psychology` and `Neurosciences` later. 
 
-I believe that the tools available determine the scope of potential
-advancements in a field in a given time in history. 
-The emergence of `neuroimaging` tools and computational power has cleared
-the way for an exponential growth of neuroscience, and the consolidation 
+I believe that the tools available in a given time in history 
+determine the scope of potential advancements in a specific field. 
+The emergence of `neuroimaging` and computational methods allowed an
+exponential growth in neuroscience and the consolidation 
 of `computational modeling` as a promising approach.
 
-That's where my [research](/projects/) lands. Using computational modeling approaches,
-I perform in-silico experiments to test hypotheses on human brain function, 
-with the goal of understanding mental health and disease, cognition and behavior.
+That's where my [research](/projects/) lands. I use computational models
+to perform in-silico experiments and test hypotheses on human brain function, aiming to
+understand mental health and disease, cognition and behavior.
 
-`Science` gives me an illusion of permanence. It brings `knowledge`, 
-a powerful tool for `progress`, one that helps us change reality. 
-There are realities to change. Some of them open to our intervention, 
-some closed. Some conscious on the need for change, some not. 
-Knowledge is a constructive endeavour, science is too. And this is 
-the funniest part, although science helps knowledge to progress, 
-it is always waiting to tell us that we were wrong. And that's where
-I feel more attach to science, in doubt.
+In science, I see a vector for `knowledge`, a powerful tool for progress, to change reality.
+And there are realities to change. Some *open* to intervention, some closed. 
+Some *conscious* on the need for change, some not. 
+`Science` does not offer certainty - but it offers the tools to question, 
+to revise, to remain intellectually honest. 
+And that's where I feel more attach to science, in doubt.
 
 
 
@@ -75,7 +72,7 @@ I feel more attach to science, in doubt.
 
 <<La duda es grieta, por donde sube la [música](/projects/).
 Desde nuestras cabezas pegadas a las suelas de vuestro cemento. 
-Hasta un cielo que cuando un niño lo dibuje, sereis capaces de imaginar.
+Hasta un cielo que cuando un niño se lo dibuje, sereis capaces de imaginar.
 Tiemblen de seguridad vuestros cimientos.>> [Escandar Algeet](https://www.youtube.com/watch?v=ze4x_pl-YYM).
 
 
